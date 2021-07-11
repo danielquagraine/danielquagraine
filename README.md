@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Daniel
-- 🌱 I’m learning and developing skills in Frontend web development, feel free to check out my projects.
+- 🌱 I’m learning and developing skills in Frontend web development.
 
 <!---
 dq7890/dq7890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
